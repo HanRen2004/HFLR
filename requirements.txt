@@ -1,0 +1,15 @@
+streamlit
+requests
+langchain>=0.3.0
+langchain-community>=0.1.0
+langchain-core>=0.2.0
+openai>=0.27.0
+langchain-openai>=0.1.0
+streamlit-webrtc>=0.35.0
+flask
+flask-cors
+ultralytics>=8.0.0
+opencv-python
+numpy
+pymongo
+dnspython
